@@ -1,6 +1,6 @@
 # Physical Challange
 
-## Fitness sporuna olan tutkumdan dolayı geliştirdiğim, 6 ayrı spor programının olduğu ve günlük beslenme programı yazdığım uygulamam.
+## Fitness sporuna olan tutkumdan dolayı geliştirdiğim, 6 ayrı vücut geliştirme programının olduğu ve günlük beslenme programı yazdığım uygulamam.
 
 ### Firebase Authentication
 ### Firestore Database
