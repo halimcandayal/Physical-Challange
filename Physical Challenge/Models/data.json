@@ -1,0 +1,185 @@
+{"response": [
+    {
+        "category_name": "Pazartesi",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah1",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "tav1",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur1",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "tav2",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Salı",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah2",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "hin1",
+                "description": "Izgara hindi, makarna, bolca yeşillik."
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur2",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "hin2",
+                "description": "Izgara hindi, makarna, bolca yeşillik."
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Çarşamba",
+        "products": [
+            {
+                "name": "Kahlvatı",
+                "image_name": "kah3",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "bal1",
+                "description": "Mevsiminde balık, yeşillik salatası, haşlama, buharda pişmiş tüm sebzeler, çorba"
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur1",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "tav1",
+                "description": "Haşlama tavuk, haşlama patates, bolca yeşillik"
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Perşembe",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah1",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "hin1",
+                "description": "Izgara hindi, makarna, bolca yeşillik."
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur2",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "hin2",
+                "description": "Izgara hindi, makarna, bolca yeşillik."
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Cuma",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah2",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "tav1",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur1",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "tav2",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Cumartesi",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah3",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "bal2",
+                "description": "Mevsiminde balık, yeşillik salatası, haşlama, buharda pişmiş tüm sebzeler, çorba"
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur2",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "chm",
+                "description": "Cheat meal"
+            }
+        
+        ]
+    },
+    {
+        "category_name": "Pazar",
+        "products": [
+            {
+                "name": "Kahvaltı",
+                "image_name": "kah1",
+                "description": "4 haşlanmış yumurta, 50gr yulaf ezmesi, bolca yeşillik, maydanoz, salatalık, mevsiminde sebzeler."
+            },
+            {
+                "name": "Öğle",
+                "image_name": "tav2",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            },
+            {
+                "name": "Ara Öğün",
+                "image_name": "kur1",
+                "description": "Kuruyemiş(fazla abartmadan), meyve, kuru kayısı."
+            },
+            {
+                "name": "Akşam",
+                "image_name": "tav1",
+                "description": "Izgara tavuk, pirinç pilavı, bolca yeşillik."
+            }
+        
+        ]
+    }
+]
+}
